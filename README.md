@@ -9,4 +9,4 @@ A simple open-source webhook listener built using Python and Flask.
 1. Clone the repo:
    ```bash
    git clone https://github.com/sanjaychandran-crypto/webhook_sanjay.git
-   cd webhook-server-python
+   cd webhook_sanjay
